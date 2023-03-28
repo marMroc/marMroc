@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá, eu sou o Marcelo Rocha 😁
 
-<!--
-**marMroc/marMroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Sou estudante do último ano de Engenharia de Biossistemas
+- 🦾 Linguagens de programação C/C++
+- 👀 Curioso por tecnologia e desenvolvimento no geral
+- 🥋 A prática leva ao aperfeiçoamento
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marMroc&show_icons=true&theme=dracula)
+
+<img src="https://icongr.am/devicon/c-original.svg?size=46&color=currentColor"><img src="https://icongr.am/devicon/cplusplus-original.svg?size=46&color=currentColor"><img src="https://icongr.am/devicon/html5-original.svg?size=46&color=currentColor"><img src="https://icongr.am/devicon/css3-original.svg?size=46&color=currentColor">
+<img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=currentColor"><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=46&color=currentColor">
+
+
+
+
+
+<a href = "https://www.linkedin.com/in/marcelo-martins-rocha-b79079227/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href = "https://linktr.ee/marcelomrocha"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+	
+
+
