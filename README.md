@@ -1,7 +1,7 @@
 ### Olá, eu sou o Marcelo Rocha 😁
 
 
-- 🌱 Sou estudante do último ano de Engenharia de Biossistemas
+- 🌱 Sou estudante do curso de Engenharia de Biossistemas
 - 🦾 Linguagens de programação C/C++
 - 👀 Curioso por tecnologia e desenvolvimento no geral
 - 🥋 A prática leva ao aperfeiçoamento
