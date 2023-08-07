@@ -2,7 +2,7 @@
 
 
 - 🌱 Sou estudante do curso de Engenharia de Biossistemas
-- 🦾 Linguagens de programação C/C++
+- 🦾 Linguagens de programação C/C++, Python
 - 👀 Curioso por tecnologia e desenvolvimento no geral
 - 🥋 A prática leva ao aperfeiçoamento
   
